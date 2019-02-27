@@ -4,7 +4,7 @@ SEOTitle: lz的博客 | JMX Blog
 header-img: img/post-bg-desk.jpg
 email: jmxgodlz@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, lz的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "JMX, JMX Blog, lz的博客, JMX, 李政, Tensorflow, Python, 机器学习"
 url: "http://447428054.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/447428054/447428054.github.io.git" # you code repository
@@ -12,17 +12,17 @@ github_repo: "https://github.com/447428054/447428054.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-lz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-lz.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+zhihu_username:     447428054
 github_username:    447428054
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+facebook_username:  jmxgodlz
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: 447428054.github.io    #仓库名称
+  owner: 447428054    #github用户名
+  admin: 447428054
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "QQZone",
+        href: "https://user.qzone.qq.com/447428054/infocenter"
     },{
         title: "CSDN",
         href: "https://blog.csdn.net/qq_40676033"
