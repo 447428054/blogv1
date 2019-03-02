@@ -29,11 +29,17 @@ tags:
 - 学习算法的类型
 	。 有监督学习（Supervised learning）
 			Teach the computer how to do something, then let it use it;s new found knowledge to do it
+			
 			注：一般是有标注的训练集
+			
 	。无监督学习（Unsupervised learning）
+	
 			Let the computer learn how to do something, and use this to determine structure and patterns in data
+			
 			注：一般是无标注训练集，使机器从中提取特征，常见算法为聚类
+			
 	。强化学习（Reinforcement learning）
+	
 	。推荐系统（Recommender systems）
 
 ### 有监督学习介绍
