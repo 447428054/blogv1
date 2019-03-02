@@ -33,8 +33,7 @@ tags:
 			注：一般是有标注的训练集
 			
 	。无监督学习（Unsupervised learning）
-	
-			Let the computer learn how to do something, and use this to determine structure and patterns in data
+	Let the computer learn how to do something, and use this to determine structure and patterns in data
 			
 			注：一般是无标注训练集，使机器从中提取特征，常见算法为聚类
 			
