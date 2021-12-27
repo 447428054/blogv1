@@ -58,7 +58,7 @@ plt.show()
 
 ```
 
-![gpe.png](https://note.youdao.com/yws/res/4219/WEBRESOURCE634cbdbbd647eadaead0b49b3da4b742)
+![gpe.png](https://s3.bmp.ovh/imgs/2021/12/4100fe169b8b9921.png)
 
 
 # NLP文本注意力可视化
@@ -176,7 +176,7 @@ createHTML([str_] * 7,
            './visualization/test.html')
 ```
 
-![wx20211211-193035@2x.png](https://note.youdao.com/yws/res/4222/WEBRESOURCEfe795460490b96a91dcf376681fb9283)
+![wx20211211-193035@2x.png](https://i.bmp.ovh/imgs/2021/12/04573a3a1f1fb2b6.png)
 
 # 参考链接
 https://blog.csdn.net/qq_38607066/article/details/101345282#t17
